@@ -1,0 +1,69 @@
+* {
+    text-decoration-color:#333333;
+
+}
+body {
+    background-color: #806FA6;
+    background-attachment: fixed;
+}
+section {
+    float: left;
+    margin: 0 1.5%;
+    width: 45%;
+}
+div {
+    clear: both;
+}
+footer{
+    margin-top:55%;
+}
+.round {
+    border-radius: 500px; 
+    border: 3px solid purple; 
+    box-shadow: 0 0 7px #666; 
+}
+img {
+    padding: 1px;
+    width: 280px;
+    height: 280px;
+    margin-left: 10%;
+    margin-right: 4%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.glav, .spisok {
+    font-family: impact, sans-serif;
+    color: whitesmoke;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.spisok {
+    font-size: 260%;
+}
+.glav {
+    font-size: 300%;
+}
+.contacts {
+    text-align: right;
+    font-size: 150%;
+    margin-right: 5%;
+    margin-bottom:5%;
+    line-height:3px;  
+}
+a {
+    color: whitesmoke;
+}
+a:link {
+    text-decoration: none;
+   
+}
+a:visited {
+    text-decoration: none;
+}
+a:active {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline; 
+    color: rebeccapurple; 
+} 

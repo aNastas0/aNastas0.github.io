@@ -1,0 +1,35 @@
+body {
+background-color: #C7BFD9;
+}
+
+p, h1,h2, li, ol {
+color: #453469;
+line-height: 20px;
+text-indent: 10px;
+}
+
+p {
+font-size: 100%;
+}
+
+a {
+font-family: Trebuchet MS, Helvetica, sans-serif;
+color: rebeccapurple;
+}
+
+a:link {
+ text-decoration: none;
+}
+
+a:visited {
+text-decoration: none;
+}
+
+a:active {
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+color: whitesmoke;
+}
